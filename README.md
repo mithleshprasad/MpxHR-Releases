@@ -26,6 +26,14 @@ Unlike cloud payroll tools (greytHR, Zoho People, Keka) that charge recurring mo
 
 ---
 
+### 📺 Watch Full Video Tutorial & Demo
+[![MpxHR Tutorial | Complete HRMS Software Demo](https://i.ytimg.com/vi/uJ_mtoufux0/hqdefault.jpg)](https://youtu.be/uJ_mtoufux0)
+
+▶️ **[Click here to watch the Complete MpxHR Walkthrough on YouTube](https://youtu.be/uJ_mtoufux0)**  
+*(Covers Dashboard, Employee Records, Biometric Attendance, Indian Payroll with PF/ESI/TDS, Payslips, KPI Scorecards & Reports)*
+
+---
+
 ## 🚀 Key Features & Capabilities
 
 ### 1. Indian Statutory Payroll Engine (`indian-payroll-software`, `pf-esi-calculator`)
