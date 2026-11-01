@@ -4,6 +4,7 @@
 [![Platform](https://img.shields.io/badge/Platform-Windows%2010%20%7C%2011%20(64--bit)-0078d7.svg)](https://www.mpxhr.com)
 [![Architecture](https://img.shields.io/badge/Architecture-100%25%20Offline%20Desktop-22c55e.svg)](https://www.mpxhr.com)
 [![Compliance](https://img.shields.io/badge/Compliance-India%20PF%20%7C%20ESI%20%7C%20TDS%20%7C%20PT-orange.svg)](https://www.mpxhr.com)
+[![YouTube](https://img.shields.io/badge/YouTube-@mpxhr-red.svg?logo=youtube)](https://www.youtube.com/@mpxhr)
 [![Website](https://img.shields.io/badge/Website-mpxhr.com-1e293b.svg)](https://www.mpxhr.com)
 
 **MpxHR Enterprise** is complete, fast, and secure desktop HR and payroll software designed for Indian MSMEs, manufacturing units, CA firms, logistics companies, and corporate offices. 
@@ -91,6 +92,7 @@ Unlike cloud payroll tools (greytHR, Zoho People, Keka) that charge recurring mo
 - **WhatsApp Support:** [+91 7519024625](https://wa.me/917519024625)
 - **Email:** [mithleshprasad58@gmail.com](mailto:mithleshprasad58@gmail.com)
 - **Instagram:** [@mpxhr75](https://www.instagram.com/mpxhr75/)
+- **YouTube:** [@mpxhr](https://www.youtube.com/@mpxhr)
 
 ---
 
